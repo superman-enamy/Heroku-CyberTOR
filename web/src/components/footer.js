@@ -10,7 +10,7 @@ function footer() {
         <div className="nav-links" style={{flexDirection: "row"}}>
           <a className="btn primary" href="https://tx.me/@enamyh" style={{color: "#f7fafc"}}>
     <span className="bnt-icon">
-        <ion-icon name="user" />
+        <ion-icon name="person" />
       </span> Devloper
     </a>
      <a className="btn" href="https://tx.me/B0RNTOLE4RN" style={{color: "#f7fafc"}}>
